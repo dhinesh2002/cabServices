@@ -1,0 +1,51 @@
+﻿body {
+    background: linear-gradient(110deg, #fdcd3b 60%, #ffed4b 60%);
+}
+
+.login {
+    width: 300px;
+    height: 350px;
+    background-color: #fff;
+    margin: 100px auto;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.75); /* Horizontal offset, vertical offset, blur radius, spread radius, color */
+    display:flex;
+    flex-direction:column;
+
+}
+
+h2 {
+    text-align: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 40px;
+}
+
+.userName {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    padding:15px;
+    width:100%;
+}
+
+.password {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    padding:15px;
+    width:100%;
+    border-radius:10px;
+}
+h5 {
+    font-family: Courier New, Courier, monospace;
+    font-size:15px;
+    position:absolute;
+    bottom:300px;
+    text-align:center;
+    padding:20px;
+}
+.login-btn {
+    text-align: center;
+    border: none;
+    outline: none;
+    
+}

@@ -1,0 +1,35 @@
+﻿body {
+    background: linear-gradient(110deg, #fdcd3b 60%, #ffed4b 60%);
+}
+p {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+}
+h1 {
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 60px;
+    color: #333;
+    margin: 10px 0;
+    padding: 0;
+    width: 100%;
+}
+footer {
+    background-color: #333; /* Set background color */
+    color: #fff; /* Set text color */
+    padding: 20px; /* Add padding */
+    text-align: center; /* Center-align text */
+    position: fixed; /* Fix the footer to the bottom of the viewport */
+    left: 0;
+    bottom: 0;
+    width: 100%; /* Make the footer full width */
+}
+#HyperLink1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    padding: 600px;
+    font-size: 20px;
+    width: 100%;
+    margin: 10px 0;
+    color: #333;
+}
